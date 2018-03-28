@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RSSReader-Kotlin</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="get_feed">Get Feed</string>
+</resources>
