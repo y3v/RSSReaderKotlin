@@ -15,21 +15,22 @@
 
 
         <EditText
-            android:id="@+id/urlInput"
+            android:id="@+id/editTextRssUrl"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="@string/enter_url"
+            android:text="@string/url_yahoo"
             android:inputType="textPersonName"
             tools:ignore="HardcodedText" />
 
         <Button
-            android:id="@+id/RSS-Get-Feed"
+            android:id="@+id/buttonGetRSSFeed"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/get_feed" />
 
         <ListView
+            android:id="@+id/listViewArticle"
             android:layout_width="match_parent"
             android:layout_height="match_parent">\
         </ListView>

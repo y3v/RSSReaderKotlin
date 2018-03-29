@@ -2,4 +2,5 @@
     <string name="app_name">RSSReader-Kotlin</string>
     <string name="enter_url">Enter URL</string>
     <string name="get_feed">Get Feed</string>
+    <string name="url_yahoo">https://www.yahoo.com/news/rss/topstories</string>
 </resources>
